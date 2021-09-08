@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <title>U1 Del 1</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/Newstyle.css">
 </head>
 <body>
     <nav>
