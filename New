@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8"> 
+    <link rel="stylesheet" href="css/Newstyle.css">
+    <title>U1 Del 1</title>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html" id="thisPage">Del 1</a></li>
+            <li><a href="Del2.html">Del 2</a></li>
+            <li><a href="Del3.html">Del 3</a></li>
+        </ul>
+    </nav>
+<header>
+    <h1>Datakommunikation och webbadresser</h1>
+</header>
+<main>
+    <p>1. Ge en kort beskrivning (syfte och vad de gör) av var och en av protokollen HTTP, TCP och IP.</p>
+    <p>2. Beskriv vilka delar av förljande URL består av: http://medieteknik.lnu.se/1me321/uppg/u1.html#fragor</p>
+    <h2>Den externa länken</h2>
+    <p>Här väljer jag att länka till <a href="https://www.djurensratt.se/" target="_blank">Djurens rätt</a>, som är en webbplats jag ofta besöker.</p>
+</main>
+</body>
+</head>
